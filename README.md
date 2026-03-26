@@ -8,7 +8,7 @@
     <a href="https://stbhg5.tistory.com/902">스프링이란?</a><br/>
     <a href="https://stbhg5.tistory.com/903">좋은 객체 지향 프로그래밍이란?</a><br/>
     <a href="https://stbhg5.tistory.com/904">좋은 객체 지향 설계의 5가지 원칙(SOLID)</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/905">객체 지향 설계와 스프링</a><br/>
     <br/><br/>
 
 <h2><h2/>
