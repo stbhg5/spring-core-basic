@@ -14,6 +14,8 @@
 <h2>2. 스프링 핵심 원리 이해1 - 예제 만들기<h2/>
     <a href="https://stbhg5.tistory.com/906">프로젝트 생성</a><br/>
     <a href="https://stbhg5.tistory.com/907">비즈니스 요구사항과 설계</a><br/>
+    <a href="https://stbhg5.tistory.com/908">회원 도메인 설계</a><br/>
+    <a href="https://stbhg5.tistory.com/909">회원 도메인 개발</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
