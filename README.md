@@ -18,7 +18,8 @@
     <a href="https://stbhg5.tistory.com/909">회원 도메인 개발</a><br/>
     <a href="https://stbhg5.tistory.com/910">회원 도메인 실행과 테스트</a><br/>
     <a href="https://stbhg5.tistory.com/911">주문과 할인 도메인 설계</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/913">주문과 할인 도메인 개발</a><br/>
+    <a href="https://stbhg5.tistory.com/914">주문과 할인 도메인 실행과 테스트</a><br/>
     <br/><br/>
 
 <h2><h2/>
