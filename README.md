@@ -22,8 +22,8 @@
     <a href="https://stbhg5.tistory.com/914">주문과 할인 도메인 실행과 테스트</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용<h2/>
+    <a href="https://stbhg5.tistory.com/915">새로운 할인 정책 개발</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
