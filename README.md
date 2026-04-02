@@ -25,6 +25,7 @@
 <h2>3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용<h2/>
     <a href="https://stbhg5.tistory.com/915">새로운 할인 정책 개발</a><br/>
     <a href="https://stbhg5.tistory.com/916">새로운 할인 정책 적용과 문제점</a><br/>
+    <a href="https://stbhg5.tistory.com/917">관심사의 분리</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
