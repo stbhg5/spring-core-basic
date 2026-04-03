@@ -26,6 +26,8 @@
     <a href="https://stbhg5.tistory.com/915">새로운 할인 정책 개발</a><br/>
     <a href="https://stbhg5.tistory.com/916">새로운 할인 정책 적용과 문제점</a><br/>
     <a href="https://stbhg5.tistory.com/917">관심사의 분리</a><br/>
+    <a href="https://stbhg5.tistory.com/919">AppConfig 리팩터링</a><br/>
+    <a href="https://stbhg5.tistory.com/920">새로운 구조와 할인 정책 적용</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
