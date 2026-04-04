@@ -28,6 +28,8 @@
     <a href="https://stbhg5.tistory.com/917">관심사의 분리</a><br/>
     <a href="https://stbhg5.tistory.com/919">AppConfig 리팩터링</a><br/>
     <a href="https://stbhg5.tistory.com/920">새로운 구조와 할인 정책 적용</a><br/>
+    <a href="https://stbhg5.tistory.com/921">전체 흐름 정리</a><br/>
+    <a href="https://stbhg5.tistory.com/922">좋은 객체 지향 설계의 5가지 원칙의 적용</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
