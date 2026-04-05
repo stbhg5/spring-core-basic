@@ -30,6 +30,7 @@
     <a href="https://stbhg5.tistory.com/920">새로운 구조와 할인 정책 적용</a><br/>
     <a href="https://stbhg5.tistory.com/921">전체 흐름 정리</a><br/>
     <a href="https://stbhg5.tistory.com/922">좋은 객체 지향 설계의 5가지 원칙의 적용</a><br/>
+    <a href="https://stbhg5.tistory.com/923">IoC, DI, 그리고 컨테이너</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
