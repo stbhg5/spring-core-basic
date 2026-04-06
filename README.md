@@ -31,7 +31,7 @@
     <a href="https://stbhg5.tistory.com/921">전체 흐름 정리</a><br/>
     <a href="https://stbhg5.tistory.com/922">좋은 객체 지향 설계의 5가지 원칙의 적용</a><br/>
     <a href="https://stbhg5.tistory.com/923">IoC, DI, 그리고 컨테이너</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/924">스프링으로 전환하기</a><br/>
     <br/><br/>
 
 <h2><h2/>
