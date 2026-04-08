@@ -36,6 +36,8 @@
 
 <h2>4. 스프링 컨테이너와 스프링 빈<h2/>
     <a href="https://stbhg5.tistory.com/925">스프링 컨테이너 생성</a><br/>
+    <a href="https://stbhg5.tistory.com/926">컨테이너에 등록된 모든 빈 조회</a><br/>
+    <a href="https://stbhg5.tistory.com/927">스프링 빈 조회 - 기본</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
