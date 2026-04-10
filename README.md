@@ -39,6 +39,7 @@
     <a href="https://stbhg5.tistory.com/926">컨테이너에 등록된 모든 빈 조회</a><br/>
     <a href="https://stbhg5.tistory.com/927">스프링 빈 조회 - 기본</a><br/>
     <a href="https://stbhg5.tistory.com/928">스프링 빈 조회 - 동일한 타입이 둘 이상</a><br/>
+    <a href="https://stbhg5.tistory.com/929">스프링 빈 조회 - 상속 관계</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
