@@ -40,6 +40,8 @@
     <a href="https://stbhg5.tistory.com/927">스프링 빈 조회 - 기본</a><br/>
     <a href="https://stbhg5.tistory.com/928">스프링 빈 조회 - 동일한 타입이 둘 이상</a><br/>
     <a href="https://stbhg5.tistory.com/929">스프링 빈 조회 - 상속 관계</a><br/>
+    <a href="https://stbhg5.tistory.com/930">BeanFactory와 ApplicationContext</a><br/>
+    <a href="https://stbhg5.tistory.com/931">다양한 설정 형식 지원 - 자바 코드, XML</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
