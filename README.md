@@ -42,6 +42,11 @@
     <a href="https://stbhg5.tistory.com/929">스프링 빈 조회 - 상속 관계</a><br/>
     <a href="https://stbhg5.tistory.com/930">BeanFactory와 ApplicationContext</a><br/>
     <a href="https://stbhg5.tistory.com/931">다양한 설정 형식 지원 - 자바 코드, XML</a><br/>
+    <a href="https://stbhg5.tistory.com/932">스프링 빈 설정 메타 정보 - BeanDefinition</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
@@ -49,3 +54,4 @@
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
+    
