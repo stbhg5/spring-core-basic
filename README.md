@@ -45,8 +45,8 @@
     <a href="https://stbhg5.tistory.com/932">스프링 빈 설정 메타 정보 - BeanDefinition</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>5. 싱글톤 컨테이너<h2/>
+    <a href="https://stbhg5.tistory.com/933">웹 애플리케이션과 싱글톤</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
