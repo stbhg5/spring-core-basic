@@ -48,6 +48,7 @@
 <h2>5. 싱글톤 컨테이너<h2/>
     <a href="https://stbhg5.tistory.com/933">웹 애플리케이션과 싱글톤</a><br/>
     <a href="https://stbhg5.tistory.com/935">싱글톤 패턴</a><br/>
+    <a href="https://stbhg5.tistory.com/937">싱글톤 컨테이너</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
