@@ -50,6 +50,7 @@
     <a href="https://stbhg5.tistory.com/935">싱글톤 패턴</a><br/>
     <a href="https://stbhg5.tistory.com/937">싱글톤 컨테이너</a><br/>
     <a href="https://stbhg5.tistory.com/939">싱글톤 방식의 주의점</a><br/>
+    <a href="https://stbhg5.tistory.com/940">@Configuration과 싱글톤</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
