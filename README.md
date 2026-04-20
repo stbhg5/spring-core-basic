@@ -54,8 +54,8 @@
     <a href="https://stbhg5.tistory.com/941">@Configuration과 바이트코드 조작의 마법</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>6. 컴포넌트 스캔<h2/>
+    <a href="https://stbhg5.tistory.com/942">컴포넌트 스캔과 의존관계 자동 주입 시작하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
