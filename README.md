@@ -64,6 +64,7 @@
 <h2>7. 의존관계 자동 주입<h2/>
     <a href="https://stbhg5.tistory.com/948">다양한 의존관계 주입 방법</a><br/>
     <a href="https://stbhg5.tistory.com/949">옵션 처리</a><br/>
+    <a href="https://stbhg5.tistory.com/950">생성자 주입을 선택해라!</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
