@@ -67,6 +67,7 @@
     <a href="https://stbhg5.tistory.com/950">생성자 주입을 선택해라!</a><br/>
     <a href="https://stbhg5.tistory.com/954">롬복과 최신 트랜드</a><br/>
     <a href="https://stbhg5.tistory.com/955">조회 빈이 2개 이상 - 문제</a><br/>
+    <a href="https://stbhg5.tistory.com/957">@Autowired 필드 명, @Qualifier, @Primary</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
