@@ -68,6 +68,7 @@
     <a href="https://stbhg5.tistory.com/954">롬복과 최신 트랜드</a><br/>
     <a href="https://stbhg5.tistory.com/955">조회 빈이 2개 이상 - 문제</a><br/>
     <a href="https://stbhg5.tistory.com/957">@Autowired 필드 명, @Qualifier, @Primary</a><br/>
+    <a href="https://stbhg5.tistory.com/960">어노테이션 직접 만들기 - @Qualifier 재정의</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
