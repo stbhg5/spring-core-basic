@@ -69,6 +69,7 @@
     <a href="https://stbhg5.tistory.com/955">조회 빈이 2개 이상 - 문제</a><br/>
     <a href="https://stbhg5.tistory.com/957">@Autowired 필드 명, @Qualifier, @Primary</a><br/>
     <a href="https://stbhg5.tistory.com/960">어노테이션 직접 만들기 - @Qualifier 재정의</a><br/>
+    <a href="https://stbhg5.tistory.com/963">조회한 빈이 모두 필요할 때, List, Map</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
