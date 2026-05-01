@@ -70,6 +70,11 @@
     <a href="https://stbhg5.tistory.com/957">@Autowired 필드 명, @Qualifier, @Primary</a><br/>
     <a href="https://stbhg5.tistory.com/960">어노테이션 직접 만들기 - @Qualifier 재정의</a><br/>
     <a href="https://stbhg5.tistory.com/963">조회한 빈이 모두 필요할 때, List, Map</a><br/>
+    <a href="https://stbhg5.tistory.com/966">자동, 수동의 올바른 실무 운영 기준</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
