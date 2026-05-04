@@ -77,6 +77,11 @@
     <a href="https://stbhg5.tistory.com/968">빈 생명주기 콜백 시작</a><br/>
     <a href="https://stbhg5.tistory.com/970">인터페이스 InitializingBean, DisposableBean</a><br/>
     <a href="https://stbhg5.tistory.com/971">빈 등록 초기화, 소멸 메서드 지정</a><br/>
+    <a href="https://stbhg5.tistory.com/974">어노테이션 @PostConstruct, @PreDestroy</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
