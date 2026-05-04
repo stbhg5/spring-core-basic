@@ -80,8 +80,8 @@
     <a href="https://stbhg5.tistory.com/974">어노테이션 @PostConstruct, @PreDestroy</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>9. 빈 스코프<h2/>
+    <a href="https://stbhg5.tistory.com/975">빈 스코프란?</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
