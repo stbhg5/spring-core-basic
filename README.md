@@ -83,6 +83,7 @@
 <h2>9. 빈 스코프<h2/>
     <a href="https://stbhg5.tistory.com/975">빈 스코프란?</a><br/>
     <a href="https://stbhg5.tistory.com/978">프로토타입 스코프</a><br/>
+    <a href="https://stbhg5.tistory.com/981">프로토타입 스코프 - 싱글톤 빈과 함께 사용시 문제점</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
