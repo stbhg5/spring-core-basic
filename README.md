@@ -85,6 +85,7 @@
     <a href="https://stbhg5.tistory.com/978">프로토타입 스코프</a><br/>
     <a href="https://stbhg5.tistory.com/981">프로토타입 스코프 - 싱글톤 빈과 함께 사용시 문제점</a><br/>
     <a href="https://stbhg5.tistory.com/984">프로토타입 스코프 - 싱글톤 빈과 함께 사용시 Provider로 문제 해결</a><br/>
+    <a href="https://stbhg5.tistory.com/986">웹 스코프</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
