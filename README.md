@@ -87,6 +87,7 @@
     <a href="https://stbhg5.tistory.com/984">프로토타입 스코프 - 싱글톤 빈과 함께 사용시 Provider로 문제 해결</a><br/>
     <a href="https://stbhg5.tistory.com/986">웹 스코프</a><br/>
     <a href="https://stbhg5.tistory.com/988">request 스코프 예제 만들기</a><br/>
+    <a href="https://stbhg5.tistory.com/990">스코프와 Provider</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
