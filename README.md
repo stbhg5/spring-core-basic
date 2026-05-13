@@ -90,8 +90,3 @@
     <a href="https://stbhg5.tistory.com/990">스코프와 Provider</a><br/>
     <a href="https://stbhg5.tistory.com/992">스코프와 프록시</a><br/>
     <br/><br/>
-
-<h2><h2/>
-    <a href=""></a><br/>
-    <a href=""></a><br/>
-    <br/><br/>
